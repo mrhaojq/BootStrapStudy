@@ -1,0 +1,10 @@
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.deps.json
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.runtimeconfig.json
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.runtimeconfig.dev.json
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.dll
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.pdb
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.csproj.CoreCompileInputs.cache
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.AssemblyInfoInputs.cache
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.AssemblyInfo.cs
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.dll
+C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.pdb
