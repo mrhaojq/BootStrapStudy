@@ -8,3 +8,14 @@ C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.
 C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.AssemblyInfo.cs
 C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.dll
 C:\Users\zyl\source\repos\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.pdb
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.deps.json
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.runtimeconfig.json
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.runtimeconfig.dev.json
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.dll
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\bin\Debug\netcoreapp2.0\BootStrapWebApp.pdb
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.csprojAssemblyReference.cache
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.csproj.CoreCompileInputs.cache
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.AssemblyInfoInputs.cache
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.AssemblyInfo.cs
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.dll
+D:\20180103_Net\BootStrap\BootStrapStudy\BootStrapWebApp\BootStrapWebApp\obj\Debug\netcoreapp2.0\BootStrapWebApp.pdb

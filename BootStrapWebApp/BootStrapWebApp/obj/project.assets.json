@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zyl\\source\\repos\\BootStrapWebApp\\BootStrapWebApp\\BootStrapWebApp.csproj",
+      "projectUniqueName": "D:\\20180103_Net\\BootStrap\\BootStrapStudy\\BootStrapWebApp\\BootStrapWebApp\\BootStrapWebApp.csproj",
       "projectName": "BootStrapWebApp",
-      "projectPath": "C:\\Users\\zyl\\source\\repos\\BootStrapWebApp\\BootStrapWebApp\\BootStrapWebApp.csproj",
+      "projectPath": "D:\\20180103_Net\\BootStrap\\BootStrapStudy\\BootStrapWebApp\\BootStrapWebApp\\BootStrapWebApp.csproj",
       "packagesPath": "C:\\Users\\zyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zyl\\source\\repos\\BootStrapWebApp\\BootStrapWebApp\\obj\\",
+      "outputPath": "D:\\20180103_Net\\BootStrap\\BootStrapStudy\\BootStrapWebApp\\BootStrapWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
